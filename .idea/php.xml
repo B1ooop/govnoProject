@@ -118,5 +118,5 @@
       <path value="$PROJECT_DIR$/api/vendor/symfony/form" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
 </project>
